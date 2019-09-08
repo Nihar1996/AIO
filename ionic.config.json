@@ -1,0 +1,7 @@
+{
+  "name": "AIO",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
